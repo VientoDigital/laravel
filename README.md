@@ -1,3 +1,5 @@
+> This is a fork of the official PHP library for the Vimeo Laravel modified to work with @composer.
+
 # Laravel Vimeo
 
 ![vimeo](https://cloud.githubusercontent.com/assets/499192/11158771/b3f80b2c-8a5a-11e5-82e5-5db4be19b4ce.png)

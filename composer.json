@@ -1,8 +1,12 @@
 {
-    "name": "vimeo/laravel",
+    "name": "vientodigital/laravel",
     "description": "A Vimeo bridge for Laravel",
     "license": "Apache-2.0",
-    "keywords": ["laravel", "vimeo", "video"],
+    "keywords": [
+        "laravel",
+        "vimeo",
+        "video"
+    ],
     "authors": [
         {
             "name": "Jon Ursenbach",
@@ -19,7 +23,7 @@
         "illuminate/contracts": "^5.8|^6.0|^7.0",
         "illuminate/support": "^5.8|^6.0|^7.0",
         "graham-campbell/manager": "^4.0",
-        "vimeo/vimeo-api": "^3.0.3"
+        "vientodigital/vimeo-api": "3.0.6-alpha"
     },
     "require-dev": {
         "laravel/framework": "^5.8|^6.0|^7.0",
