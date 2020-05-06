@@ -1,5 +1,5 @@
 {
-    "name": "vientodigital/laravel",
+    "name": "vientodigital/vimeo-laravel",
     "description": "A Vimeo bridge for Laravel",
     "license": "Apache-2.0",
     "keywords": [
